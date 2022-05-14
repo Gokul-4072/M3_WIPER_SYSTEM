@@ -1,6 +1,7 @@
 
+
 ## FLOWCHART:
-![Algorithm Flow (1)](https://user-images.githubusercontent.com/101783839/168415597-4f6ab390-d9a9-4f98-bcee-ba7641156bcd.jpg)
+![Algorithm Flow (2)](https://user-images.githubusercontent.com/101783839/168422595-4308a630-59d6-4fbd-bcb0-98ed378c8775.jpg)
 
 ## STM32 MICROCONTROLLER BOARD:
 ![STM32](https://user-images.githubusercontent.com/101783839/168415628-c79b4150-00f3-41f3-9462-e49f051ce895.jpg)
